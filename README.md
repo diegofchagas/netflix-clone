@@ -2,7 +2,10 @@
 
 Neste projeto foi feito um consumo de uma api para trazer toda as imagens do capa dos filmes e ao clica no filmes em alta e possível ver o trailer do filme e toda a parte estrutural do site foi baseada da própria página do netflix.
 
+![clone-netflix](https://user-images.githubusercontent.com/81427079/180453219-066690c0-b4ab-4e7a-b992-de9c448a0354.png)
 
+
+## link = https://netflix-clone-6e80f.web.app/
 
 
 ### `npm start`
